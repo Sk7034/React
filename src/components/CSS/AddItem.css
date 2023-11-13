@@ -1,0 +1,21 @@
+.addForm{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    margin: 0.5rem 0 0;
+    padding: 0 0.5rem 0.25rem;
+    border-bottom: 1px solid #eee;
+}
+
+.addForm input{
+    flex-grow: 1;
+}
+
+button{
+    height: 48px;
+    width: 48px;
+}
+
+button:focus{
+    background-color: aqua;
+}
