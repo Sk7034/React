@@ -1,21 +1,29 @@
 {
-    "items":[
-        {
-            "id" : 1,
-            "checked": false,
-            "name": "item 1"
-        },
-        {
-            "id" : 2,
-            "checked": false,
-            "name": "item 2"
-        },
-        {
-            "id" : 3,
-            "checked": false,
-            "name": "item 3"
-        }
-
-    ]
-
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "name": "item 1"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "name": "item 2"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "name": "item 3"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "name": "item 4"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "name": "item 5"
+    }
+  ]
 }

@@ -2,10 +2,7 @@ import './CSS/Body.css'
 import React from 'react';
 import ItemList from './ItemList';
 
-const Body=({items,setItems,handleCheck,handleDelete})=>{
-   
-    
-
+const Content=({items,setItems,handleCheck,handleDelete})=>{
     return(
         <div className="main" >
             {items.length ? (
@@ -25,4 +22,4 @@ const Body=({items,setItems,handleCheck,handleDelete})=>{
     );
 }
 
-export default Body
+export default Content
